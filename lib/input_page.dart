@@ -54,8 +54,6 @@ class _InputPageState extends State<InputPage> {
                               : inactiveCardColor),
                     ),
                   ),
-                  //TODO: Test
-
                   Expanded(
                     child: GestureDetector(
                       onTap: () {
